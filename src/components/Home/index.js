@@ -33,13 +33,13 @@ function Home() {
   return (
     <div className='home_page'>
         <section className='hp_hero_section'>
-            <div class="hp_hero_section__feature-banner">
+            {/* <div class="hp_hero_section__feature-banner">
                 <span class="new-feature">New feature</span>
                 <span  class="hp_hero_section_new_feature_team-dashboard">
                     Check out the team dashboard
                     <span class="arrow">→</span>
                 </span>
-            </div>
+            </div> */}
             <h2>Beautiful analytics to grow smarter</h2>
             <p>Powerful, self-serve product and growth analytics to help you convert, engage,<br/> and retain more users. Trusted by over 4,000 startups.</p>
             <div>
